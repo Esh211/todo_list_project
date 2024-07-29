@@ -14,15 +14,15 @@ This is a simple Todo List application built with React. Users can add, update, 
 
 ## Core Features:
 - Create Task: Allow users to add new tasks.
-Update Task: Allow users to edit existing tasks.
-Mark as Done: Allow users to mark tasks as completed.
-Search Tasks: Implement a search functionality to filter tasks.
-Expandable List: Display tasks in an expandable list format, showing a description and a timestamp of the last update when expanded.
+- Update Task: Allow users to edit existing tasks.
+- Mark as Done: Allow users to mark tasks as completed.
+- Search Tasks: Implement a search functionality to filter tasks.
+- Expandable List: Display tasks in an expandable list format, showing a description and a timestamp of the last update when expanded.
 
 ## Data Storage: 
-Use a dummy JSON file as a data repository.
+- Use a dummy JSON file as a data repository.
 
 ## Additional Parameters
-URL Parameters: Use URL parameters to handle search functionality.
-Well-organized, modular, commented
-Good styling and alignment
+- URL Parameters: Use URL parameters to handle search functionality.
+- Well-organized, modular, commented
+- Good styling and alignment
