@@ -13,7 +13,7 @@ This is a simple Todo List application built with React. Users can add, update, 
    git clone <repository-url>
 
 ## Core Features:
-Create Task: Allow users to add new tasks.
+- Create Task: Allow users to add new tasks.
 Update Task: Allow users to edit existing tasks.
 Mark as Done: Allow users to mark tasks as completed.
 Search Tasks: Implement a search functionality to filter tasks.
